@@ -6,7 +6,7 @@ import sys
 # Here we set URL and Header, and took host adress
 URL = 'https://kolesa.kz/cars/tesla/'
 HEADER = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36'
+    'User-Agent': 'PUT_HERE_USER_AGENT'
 }
 HOST = 'https://kolesa.kz'
 
